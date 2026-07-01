@@ -1,7 +1,5 @@
 Name:
 Role:
-GitHub Learning test-Summary:
-023Role:test-132456
-GitHub Learning Summary:
+GitHub Learning Summary-test:
 Favorite Tool: GitHub Desktop
 Location: Bosnia and Herzegovina
