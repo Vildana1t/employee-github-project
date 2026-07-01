@@ -4,3 +4,5 @@ Role:
 GitHub Learning Summary:
 Update profile information
 Update profile information
+Name: John Doe
+Update profile information
