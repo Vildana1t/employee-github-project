@@ -2,3 +2,4 @@ Name:
 Role:
 GitHub Learning Summary-test:
 Favorite Tool: GitHub Desktop
+Location: Bosnia and Herzegovina
